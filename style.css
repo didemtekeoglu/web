@@ -1,0 +1,250 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;
+}
+.vsc-initialize {
+    display: block;
+    width: 80%;
+    margin: 0 auto;
+    background-image: url(img/Zz0zZTliMjQ4MzhlNGExMWViYmJiMjFiZTI2ZWNmN2MzZA==.jpg);
+    background-size: cover;
+}
+.Portfolio {
+    font-size: 40px;
+    text-align: center;
+}
+.container{
+    display: flex;
+    width: 100%;
+
+
+}
+
+hr {
+    padding: 20px;
+    border-color: transparent;
+}
+
+.banner-ph {
+    width: 97%;
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.first-title {
+    font-size: 3.5rem;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    color: #02027b;
+}
+.sub-title {
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+.bio-block {
+    font-weight: 300;
+    padding-top: 10px;
+    width: 97%;
+}
+
+.card {
+    background-color:rgb(243, 214, 225);
+    height: auto; 
+    display: flex;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    margin: 20px;
+    font-size: 10px;
+    font-weight: 300;
+    flex-direction: column;
+    gap: 10px;
+    padding-bottom: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.card-header {
+    font-size: 20px;
+}
+
+.first-image{
+    width: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+.second-image {
+    width: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+
+}
+.third-image {
+    width: 100%;
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.btn-card {
+    width: 50%;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    text-align: center;
+    padding: 1px 2px;
+    vertical-align: middle;
+    height: 30px;
+    border: transparent;
+    background-color: rgb(138, 75, 138);
+    color: #fff;
+    border-radius: 5px;
+}
+
+
+.applet-heading {
+    display: block;
+    background-color: rgb(243, 214, 225);
+    height: auto;
+    width: 97%;
+    margin: 0 auto;
+    
+}
+.sec-header {
+    font-size: 20px;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+.query-form {
+    padding-bottom: 10px;
+}
+.form-space {
+    padding: 10px;
+    font-size: 20px;
+
+}
+
+.btn-generate, .btn-reset {
+    padding: 10px;
+    margin-top: 10px;
+    margin: auto;
+    border: transparent;
+    background-color: rgb(138, 75, 138);
+    color: #fff;
+    border-radius: 5px;
+  
+}
+.input-form {
+    height: 25px;
+    width: 25%;
+}
+.data{
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 15px;
+    
+    
+
+}
+data *span {
+    background-color: black;
+}
+.keyword-magnet {
+    font-size: 10px;
+    background-color: transparent;
+    border: 0.5px solid black;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.sec2-header {
+    font-size: 2rem;
+    color: rgb(22, 22, 136);
+    font-weight: 700;
+}
+
+
+.skill-list {
+    font-size: 1.5rem;
+    padding-top: 20px;
+    margin: 10px;
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+}
+.subheaders {
+    margin: 7px;
+}
+.sec3-subheader {
+    font-size: 1.7rem;
+}
+.sec3-smallheader {
+    font-size: 1.6rem;
+    color: #595959;
+}
+.career-list {
+    font-size: 1.5rem;
+}
+ul {
+    list-style-type: none;
+    display: table;
+    margin: 0 auto;
+    text-align: left;
+    width: fit-content;
+    
+}
+li {
+    font-weight: 300;
+
+}
+ul li::before {
+    content: "\f4e3";
+    font-family: FontAwesome;
+    align-items: center;
+    margin: 0 1rem;
+}
+
+.edu-title {
+    font-size: 2rem;
+}
+.edu-subtitle {
+    font-size: 1.7rem;
+}
+
+.edu-smalltitle {
+    font-size: 1.6rem;
+}
+
+.reference-link {
+    font-size: 1.4rem;
+}
+
+.footer-title {
+    font-size: 1.1rem;
+    text-align: center;
+    font-weight: 300;
+    margin-bottom: 10px;
+}
+.last-img {
+    width: 80%;
+    display: block;
+    margin: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    height: 50%;
+
+}
+
+a {
+    text-decoration: none;
+    color: rgb(99, 10, 134);
+}
+
+.generatedpoem {
+    font-size: 20px;
+    padding-top: 10px;
+}
+
